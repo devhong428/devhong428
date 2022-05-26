@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kyuhee
 
-- my Blog : kyuheehong0@gmail.com
+- my Blog : kyuheehong0.github.io
 - I’m currently learning Swift
   with Challenge! 100 Days of Swift https://www.hackingwithswift.com/100
 
