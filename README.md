@@ -1,4 +1,4 @@
-### Hi there 👋 I am Kyuhee
+### Hi there 👋 I'm Kyuhee
 
 - I’m currently learning Swift
 
