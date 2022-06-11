@@ -1,8 +1,6 @@
 ### Hi there 👋 I am Kyuhee
 
-- my Blog : kyuheehong0.github.io
 - I’m currently learning Swift
-  with Challenge! 100 Days of Swift https://www.hackingwithswift.com/100
 
 <!--
 **kyuheehong0/kyuheehong0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
